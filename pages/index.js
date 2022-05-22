@@ -3,6 +3,8 @@ import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
 import { getSortedPostsData } from '../lib/posts';
 
+// Note: getStaticProps only runs on the server-side, and can only be exported from a page.
+// To fetch data at request time instead of at build time, use getServerSideProps instead.
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {

@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## My site and blog
+
+Built with Next.js, no backend. 
