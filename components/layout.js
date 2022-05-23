@@ -4,63 +4,38 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Your Name';
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = 'Leck Tang';
+const name = 'Leck Tang';
+const aboutMe = "Hello there! You've reached my personal site and blog. I still have to add styling and resume info, but the blog should be functional."
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
-      <Head>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="Learn how to build a personal website using Next.js"
-        />
-        <meta
-          property="og:image"
-          content={`https://og-image.vercel.app/${encodeURI(
-            siteTitle,
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
-        />
-        <meta name="og:title" content={siteTitle} />
-        <meta name="twitter:card" content="summary_large_image" />
-      </Head>
+      {home ? (
       <header className={styles.header}>
-        {home ? (
-          <>
-            <Image
-              priority
-              src="/images/profile.png"
-              className={utilStyles.borderCircle}
-              height={144}
-              width={144}
-              alt={name}
-            />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
-          </>
-        ) : (
-          <>
-            <Link href="/">
-              <a>
-                <Image
-                  priority
-                  src="/images/profile.png"
-                  className={utilStyles.borderCircle}
-                  height={108}
-                  width={108}
-                  alt={name}
-                />
+        <div class="flex justify-center">
+          <div class="w-60 h-60 flex-1">
+            <img src="/images/profile.png" class="p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500"/>
+          </div>
+          <div class="px-8 py-4 flex-1">
+            <h3 class="font-sans text-4xl">{name}</h3>
+            <h4 class="pt-4 leading-snug">{aboutMe}</h4>
+            <div class="flex flex-row gap-4 pt-6">
+              <a href="https://github.com/achrysaetos">
+                <img class="w-8 h-8" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
               </a>
-            </Link>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
-              </Link>
-            </h2>
-          </>
-        )}
+              <a href="https://www.linkedin.com/in/leck-tang-b15b89171">
+                <img class="w-8 h-8" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
+              </a>
+              <a href="https://twitter.com/lecktang">
+                <img class="w-8 h-8" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />
+              </a>
+            </div>
+          </div>
+        </div>
       </header>
-      <main>{children}</main>
+      ) : ""}
+      <main class="py-4">{children}</main>
       {!home && (
         <div className={styles.backToHome}>
           <Link href="/">

@@ -25,7 +25,18 @@ a:hover {
   text-decoration: underline;
 }
 
-img {
-  max-width: 100%;
-  display: block;
+article h1 {
+  @apply text-2xl;
+}
+article h2 {
+  @apply text-xl;
+}
+article p, h1, h2 {
+  @apply my-4;
+}
+article strong {
+  @apply text-pink-700 font-medium;
+}
+article li {
+  @apply list-disc ml-4;
 }
