@@ -15,7 +15,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         <div class="flex justify-center">
           <div class="w-60 h-60 flex-1">
-            <img src="/images/profile.png" class="p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500"/>
+            <img src="/images/profile.png" class="p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500 w-60 h-60"/>
           </div>
           <div class="px-8 py-4 flex-1">
             <h3 class="font-sans text-4xl">{name}</h3>
