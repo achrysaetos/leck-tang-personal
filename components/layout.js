@@ -10,6 +10,9 @@ export default function Layout({ children, home }) {
     <div className={styles.container}>
       {home ? (
         <>
+          {/* <div className='w-full h-24'>
+            <img src='/images/paris_ultrawide.png'/>
+          </div> */}
           <Greeting/>
           <Resume/>
         </>

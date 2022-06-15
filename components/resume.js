@@ -24,8 +24,10 @@ export default function Resume() {
       <h2 className={utilStyles.headingLg}>Experience</h2>
       <div className="flex justify-between">
         <div>
-          <p className="text-blue-400 font-bold text-lg">Bentley Systems</p>
-          <p className="text-gray-400 text-sm">Software Engineer Intern</p>
+          <p className="text-blue-400 font-bold text-lg">
+            Software Engineer Intern
+          </p>
+          <p className="text-gray-400 text-sm">Bentley Systems</p>
         </div>
         <div className="text-right">
           <p className="text-gray-600 font-medium">Exton, PA</p>
@@ -35,8 +37,8 @@ export default function Resume() {
       <BentleySystems />
       <div className="flex justify-between">
         <div>
-          <p className="text-blue-400 font-bold text-lg">CourseTable</p>
-          <p className="text-gray-400 text-sm">Software Developer</p>
+          <p className="text-blue-400 font-bold text-lg">Software Developer</p>
+          <p className="text-gray-400 text-sm">CourseTable</p>
         </div>
         <div className="text-right">
           <p className="text-gray-600 font-medium">New Haven, CT</p>
@@ -46,10 +48,10 @@ export default function Resume() {
       <CourseTable />
       <div className="flex justify-between">
         <div>
-          <p className="text-blue-400 font-bold text-lg">
+          <p className="text-blue-400 font-bold text-lg">Software Author</p>
+          <p className="text-gray-400 text-sm">
             The Java Programming Language, 3rd ed.
           </p>
-          <p className="text-gray-400 text-sm">Author</p>
         </div>
         <div className="text-right">
           <p className="text-gray-600 font-medium">Little Rock, AR</p>
