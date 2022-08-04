@@ -40,3 +40,45 @@ article strong {
 article li {
   @apply list-disc ml-4;
 }
+
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 200vh;
+  background: white;
+}
+
+.headline {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 10vh;
+}
+
+.inset {
+  position: absolute;
+  inset: 0;
+  z-index: 82309712837981273;
+}
+.white {
+  color: white;
+}
+.gray {
+  color: #446;
+}
+
+.full {
+  height: 100vh;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gradient {
+  background: linear-gradient(rgba(14, 62, 151, 0.5) 50%, black);
+}
