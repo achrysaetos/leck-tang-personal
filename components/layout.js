@@ -14,7 +14,8 @@ export default function Layout({ children, home }) {
           <Resume/>
         </>
       ) : ""}
-      <main class="py-4">{children}</main>
+      <hr className="mt-10"/>
+      <main>{children}</main>
       {!home && (
         <div className={styles.backToHome}>
           <Link href="/">

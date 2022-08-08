@@ -62,7 +62,7 @@ export function CoursePicker() {
             <button
               className={cx(
                 "rounded px-3 text-gray-500",
-                selected[c] && " bg-green-200 text-black"
+                selected[c] && " bg-selected text-black"
               )}
               onClick={() => setSelected({ ...selected, [c]: !selected[c] })}
             >
@@ -111,7 +111,7 @@ export function SkillsPicker() {
             <button
               className={cx(
                 "rounded px-3 text-gray-500",
-                selected[c] && " bg-green-200 text-black"
+                selected[c] && " bg-selected text-black"
               )}
               onClick={() => setSelected({ ...selected, [c]: !selected[c] })}
             >
