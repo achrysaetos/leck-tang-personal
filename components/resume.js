@@ -55,7 +55,7 @@ export default function Resume() {
         </div>
         <div className="text-right">
           <p className="text-gray-600 font-medium">Little Rock, AR</p>
-          <p className="text-gray-400 text-sm">May-Aug 2018</p>
+          <p className="text-gray-400 text-sm">May-Aug 2019</p>
         </div>
       </div>
       <Java />

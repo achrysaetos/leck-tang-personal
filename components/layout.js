@@ -20,11 +20,14 @@ export default function Layout({ children, home }) {
       <hr className="mt-10"/>
       <main>{children}</main>
       {!home && (
-        <div className={styles.backToHome}>
-          <Link href="/">
-            <a className="text-important">← Back to home</a>
-          </Link>
-        </div>
+        <>
+          <div className={styles.backToHome}>
+            <Link href="/">
+              <a className="text-important">← Back to home</a>
+            </Link>
+          </div>
+          <hr className="mt-5"/>
+        </>
       )}
     </div>
   );

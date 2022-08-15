@@ -8,7 +8,12 @@ const bentley = {
 };
 
 const coursetable = {
-  show: ["Full-stack web dev with React, TypeScript, Node, and GraphQL."],
+  show: [
+    "Overhauled front-end design using React and TypeScript to improve interactivity.",
+    "Implemented performance optimizations to streamline the process of browsing for classes.",
+    "Added new features to sort/search/filter evaluations using sentiment analysis, and to let students check for course conflicts.",
+    "Used by over 6000 undergraduates, with a current catalog of 80,000+ courses and 600,000+ evaluations.",
+  ],
 };
 
 const java = {
@@ -44,7 +49,13 @@ export function BentleySystems() {
           ))}
         </div>
       </div>
-      {selected.show && show.map((s) => <li className="list-none">{s}</li>)}
+      {selected.show && (
+        <ul className="pt-2 pl-4 list-outside list-disc">
+          {show.map((s) => (
+            <li>{s}</li>
+          ))}
+        </ul>
+      )}
     </div>
   );
 }
@@ -74,7 +85,13 @@ export function CourseTable() {
           ))}
         </div>
       </div>
-      {selected.show && show.map((s) => <li className="list-none">{s}</li>)}
+      {selected.show && (
+        <ul className="pt-2 pl-4 list-outside list-disc">
+          {show.map((s) => (
+            <li>{s}</li>
+          ))}
+        </ul>
+      )}
     </div>
   );
 }
@@ -104,7 +121,13 @@ export function Java() {
           ))}
         </div>
       </div>
-      {selected.show && show.map((s) => <li className="list-none">{s}</li>)}
+      {selected.show && (
+        <ul className="pt-2 pl-4 list-outside list-disc">
+          {show.map((s) => (
+            <li>{s}</li>
+          ))}
+        </ul>
+      )}
     </div>
   );
 }
