@@ -3,7 +3,9 @@ import cx from "classnames";
 
 const bentley = {
   show: [
-    "Advancing infrastructure. React and TypeScript for the iTwin Platform.",
+    "Reduced application build time by creating a fully functional version of a core product in Svelte to demonstrate its feasibility for developers.",
+    "Implemented the error boundary from scratch to replace the deprecated error-handling package, resulting in more specific and versatile error messages.",
+    "Handled important user-requested features, such as more intuitive UI panels and a SQL provider to let developers query information directly from the app.",
   ],
 };
 
