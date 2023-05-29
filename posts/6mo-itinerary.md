@@ -3,6 +3,8 @@ title: '6 month travel itinerary to explore every contintent (except Antarctica)
 date: '2023-05-29'
 ---
 
+*A non-exhaustive list of ideas.*
+
 **Month 1: Europe**
 
 * **London, England:** Spend a few days exploring iconic landmarks such as the Tower of London, Buckingham Palace, and St. Paul's Cathedral. Take a stroll along the River Thames and visit world-class museums like the British Museum and the Tate Modern.
