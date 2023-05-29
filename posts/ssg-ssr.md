@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'When to use static generation vs server-side rendering'
 date: '2020-01-02'
 ---
 
