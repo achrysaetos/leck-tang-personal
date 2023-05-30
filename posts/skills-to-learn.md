@@ -3,7 +3,7 @@ title: 'Coolest skills to learn in foreign countries'
 date: '2023-05-29'
 ---
 
-*A non-exhaustive list of ideas.*
+*A non-exhaustive list of ideas. For those who like to do, not see.*
 
 **Traditional Dance:** Explore traditional dance forms specific to the country you're visiting, such as flamenco in Spain, tango in Argentina, or Bollywood dance in India. Learning these cultural dances can be a vibrant and captivating experience.
 
