@@ -35,10 +35,12 @@ date: '2023-05-29'
 
 **Local Language Slang and Expressions:** Beyond basic language skills, immerse yourself in the local slang and expressions to connect with locals on a deeper level. Learning colloquial phrases and idioms can enhance your cultural understanding and help you connect with the community.
 
+<hr>
 
-*Example: What are some activities you can only do in ______ and not anywhere else in the world, if you like to actively do things, instead of merely sightseeing or exploring? What do people in ______ do differently (what can you learn from them)?*
+*ie. What are some activities you can only do in ______ and not anywhere else in the world, if you like to actively do things, instead of merely sightseeing or exploring? What do people in ______ do differently that you can learn from?*
 
 **In Singapore:**
+
 * Experience hawker center dining: Singapore is famous for its hawker centers, which are food courts offering a wide array of affordable and delicious local dishes. Explore hawker centers like Maxwell Food Centre or Tiong Bahru Market, and sample Singaporean favorites like chicken rice, laksa, or chili crab.
 
 * Visit Gardens by the Bay: This iconic attraction is home to futuristic Supertrees and two enormous glass conservatories, the Flower Dome and Cloud Forest. Explore the lush gardens, walk along the suspended walkways, and marvel at the unique plant species from around the world.
@@ -104,6 +106,7 @@ date: '2023-05-29'
 * Take part in a calligraphy workshop: Embrace the art of calligraphy by joining a workshop where you can learn to write Chinese characters using traditional brushes and ink. Discover the beauty and precision of this ancient art form.
 
 **In Tokyo:**
+
 * Experience a traditional tea ceremony: Participate in a Japanese tea ceremony, known as chanoyu or sadō. Immerse yourself in the ritual of preparing and enjoying matcha (powdered green tea) while learning about its cultural significance.
 
 * Try your hand at sumo wrestling: Tokyo is the epicenter of sumo wrestling in Japan. Watch a live sumo match, and if you're feeling adventurous, join a sumo training session where you can learn the basic techniques and get a glimpse into the world of sumo wrestlers.
