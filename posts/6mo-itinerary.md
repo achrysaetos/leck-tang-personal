@@ -3,7 +3,7 @@ title: '6 month travel itinerary to explore every contintent (except Antarctica)
 date: '2023-05-29'
 ---
 
-*A non-exhaustive list of ideas. Though if you're the kind of person that prefers doing (instead of seeing), you'll like my previous post more. You only need to see each continent once.*
+*A non-exhaustive list of ideas. Though if you're the kind of person who prefers doing (instead of seeing), you'll like my previous post more. You only need to see each continent once.*
 
 **Month 1: Europe**
 
