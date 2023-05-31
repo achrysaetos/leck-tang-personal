@@ -1,5 +1,5 @@
 ---
-title: 'Two forms of pre-rendering'
+title: 'Next.js 1/2 - Two forms of pre-rendering'
 date: '2020-01-01'
 ---
 

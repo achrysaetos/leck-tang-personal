@@ -1,5 +1,5 @@
 ---
-title: 'When to use static generation vs server-side rendering'
+title: 'Next.js 2/2 - When to use static generation vs server-side rendering'
 date: '2020-01-02'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Coolest skills to learn in foreign countries'
+title: 'Traveling 2/2 - Coolest skills to learn in foreign countries'
 date: '2023-05-29'
 ---
 
@@ -37,7 +37,7 @@ date: '2023-05-29'
 
 
 
-*ie. What are some activities you can only do in ______ and not anywhere else in the world, if you like to actively do things, instead of merely sightseeing or exploring? What do people in ______ do differently, that you can learn from?*
+*ie. What are some activities you can only do in ______ and not anywhere else in the world, if you like to actively do things, instead of merely sightsee or explore? What do people in ______ do differently, that you can learn from?*
 
 **SINGAPORE:**
 
