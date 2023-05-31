@@ -1,6 +1,6 @@
 ---
 title: 'Traveling 2/2 - Coolest skills to learn in foreign countries'
-date: '2023-05-29'
+date: '2023-05-30'
 ---
 
 *A non-exhaustive list of ideas. For those who like to do, not see.*
@@ -34,8 +34,6 @@ date: '2023-05-29'
 **Indigenous Crafts and Artistry:** Explore the craftsmanship and artistic traditions of indigenous communities. Learn skills such as beadwork, basket weaving, carving, or textile production, preserving cultural heritage and supporting local artisans.
 
 **Local Language Slang and Expressions:** Beyond basic language skills, immerse yourself in the local slang and expressions to connect with locals on a deeper level. Learning colloquial phrases and idioms can enhance your cultural understanding and help you connect with the community.
-
-
 
 *ie. What are some activities you can only do in ______ and not anywhere else in the world, if you like to actively do things, instead of merely sightsee or explore? What do people in ______ do differently, that you can learn from?*
 

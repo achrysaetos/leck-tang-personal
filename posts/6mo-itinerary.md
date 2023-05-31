@@ -3,7 +3,7 @@ title: 'Traveling 1/2 - 6 month travel itinerary to explore every contintent (ex
 date: '2023-05-29'
 ---
 
-*A non-exhaustive list of ideas. Though if you're the kind of person who prefers doing (instead of seeing), you'll like my next post more. You only need to see each continent once.*
+*A non-exhaustive list of ideas. Though if you're the kind of person who prefers doing (instead of seeing), you'll like the next post more. You only need to see each continent once.*
 
 **Month 1: Europe**
 
