@@ -41,8 +41,6 @@ date: '2023-05-30'
 
 * **Experience hawker center dining:** Singapore is famous for its hawker centers, which are food courts offering a wide array of affordable and delicious local dishes. Explore hawker centers like Maxwell Food Centre or Tiong Bahru Market, and sample Singaporean favorites like chicken rice, laksa, or chili crab.
 
-* **Explore Pulau Ubin:** Take a ferry to Pulau Ubin, a small offshore island that offers a glimpse into Singapore's past. Rent a bicycle and explore the island's rustic villages, mangrove forests, and scenic trails.
-
 * **Discover the vibrant ethnic neighborhoods:** Visit neighborhoods like Chinatown, Little India, and Kampong Glam to experience the diverse cultures of Singapore. Explore colorful streets, visit temples and mosques, and try authentic ethnic cuisine.
 
 * **Try cable skiing at Singapore Wake Park:** If you're into water sports, head to Singapore Wake Park to try cable skiing or wakeboarding. It offers a unique opportunity to experience these thrilling activities without the need for a boat.
@@ -51,13 +49,11 @@ date: '2023-05-30'
 
 **PARIS:**
 
-* **Take a baking class:** Paris is renowned for its patisseries and boulangeries. Sign up for a baking class where you can learn to make croissants, macarons, or baguettes from experienced French pastry chefs.
-
-* **Explore Parisian markets:** Visit local markets like Marché d'Aligre or Marché Bastille, where you can interact with vendors, sample fresh produce, cheese, and charcuterie, and even participate in cooking demonstrations.
+* **Join a cooking workshop:** Learn to prepare classic French dishes like coq au vin or boeuf bourguignon by participating in a cooking workshop. These hands-on experiences are led by professional chefs and provide insights into French culinary traditions.
 
 * **Attend a wine tasting:** France is known for its exceptional wines. In Paris, you can find wine shops and cellars that offer wine tastings and educational sessions, allowing you to explore and appreciate the diversity of French wines.
 
-* **Join a cooking workshop:** Learn to prepare classic French dishes like coq au vin or boeuf bourguignon by participating in a cooking workshop. These hands-on experiences are led by professional chefs and provide insights into French culinary traditions.
+* **Explore Parisian markets:** Visit local markets like Marché d'Aligre or Marché Bastille, where you can interact with vendors, sample fresh produce, cheese, and charcuterie, and even participate in cooking demonstrations.
 
 * **Join a fashion or perfume tour:** Paris is a fashion capital and offers specialized tours that take you behind the scenes of the city's fashion industry or the world of haute couture and perfumery.
 
@@ -71,8 +67,6 @@ date: '2023-05-30'
 
 * **Try traditional Chinese medicine therapies:** Shanghai has numerous traditional Chinese medicine clinics and wellness centers. Experience therapies like acupuncture, cupping, or herbal remedies for a unique approach to health and well-being.
 
-* **Take part in a calligraphy workshop:** Embrace the art of calligraphy by joining a workshop where you can learn to write Chinese characters using traditional brushes and ink. Discover the beauty and precision of this ancient art form.
-
 **TOKYO:**
 
 * **Experience a traditional tea ceremony:** Participate in a Japanese tea ceremony, known as chanoyu or sadō. Immerse yourself in the ritual of preparing and enjoying matcha (powdered green tea) while learning about its cultural significance.
@@ -82,5 +76,3 @@ date: '2023-05-30'
 * **Take a traditional Japanese cooking class:** Join a cooking class where you can learn to prepare authentic Japanese dishes such as sushi, tempura, or ramen. Get hands-on experience and insights into Japanese culinary techniques.
 
 * **Experience a traditional onsen (hot spring):** Take a short trip outside of Tokyo to visit an onsen, a traditional Japanese hot spring. Relax in the therapeutic mineral-rich waters and embrace the serene atmosphere.
-
-* **Attend a traditional festival or matsuri:** Tokyo hosts numerous festivals throughout the year, such as the cherry blossom festivals, summer fireworks displays, or the famous Sanja Matsuri. Participate in these cultural celebrations to witness traditional performances, food stalls, and vibrant parades.
