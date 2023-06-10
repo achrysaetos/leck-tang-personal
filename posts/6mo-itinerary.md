@@ -1,5 +1,5 @@
 ---
-title: 'Traveling 1/2 - 6 month travel itinerary to explore every contintent (except Antarctica)'
+title: 'Traveling 1/2 - 6 month travel itinerary to explore every contintent'
 date: '2023-05-29'
 ---
 
