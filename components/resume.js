@@ -63,25 +63,33 @@ export default function Resume() {
       <hr className="mt-10"/>
       <h2 className={utilStyles.headingLg}>Projects</h2>
       <div className="flex items-baseline">
+        <a href="https://www.chatterup.app/" className="text-important text-lg pr-2">Chatterup</a>
+        <p className="text-gray-400 text-sm">Customizable ChatGPT using your documents and data</p>
+      </div>
+      <div className="flex items-baseline">
+        <a href="https://github.com/coursetable/coursetable" className="text-important text-lg pr-2">CourseTable</a>
+        <p className="text-gray-400 text-sm">Course search database for Yale students</p>
+      </div>
+      <div className="flex items-baseline">
         <a href="https://github.com/yale-swe/s22-college-sublet" className="text-important text-lg pr-2">HouseMe</a>
-        <p className="text-gray-400 text-sm">A subletting web service exclusively for college students</p>
+        <p className="text-gray-400 text-sm">Subletting web service exclusively for college students</p>
       </div>
       <div className="flex items-baseline">
         <a href="https://github.com/achrysaetos/Twitter-clone" className="text-important text-lg pr-2">Twitter Clone</a>
-        <p className="text-gray-400 text-sm">A fully functional social networking web app</p>
+        <p className="text-gray-400 text-sm">Fully functional social networking web app</p>
       </div>
       <div className="flex items-baseline">
         <a href="https://github.com/achrysaetos/indeedio" className="text-important text-lg pr-2">Indeedio</a>
-        <p className="text-gray-400 text-sm">A personalized job search web app for software engineers</p>
+        <p className="text-gray-400 text-sm">Personalized job search web app for software engineers</p>
       </div>
-      <div className="flex items-baseline">
+      {/* <div className="flex items-baseline">
         <a href="https://github.com/achrysaetos/betterNEWS" className="text-important text-lg pr-2">BetterNEWS</a>
         <p className="text-gray-400 text-sm">A celebrity news aggregator for most recent headlines</p>
       </div>
       <div className="flex items-baseline">
         <a href="https://github.com/achrysaetos/lstm-poc" className="text-important text-lg pr-2">LSTM (poc)</a>
         <p className="text-gray-400 text-sm">ML models for predicting trends like weather/crypto</p>
-      </div>
+      </div> */}
       <div className="flex items-baseline justify-end">
         <a href="https://github.com/achrysaetos" className="text-important text-sm pr-2">more...</a>
       </div>
