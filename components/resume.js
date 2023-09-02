@@ -1,6 +1,6 @@
 import utilStyles from "../styles/utils.module.css";
 import { CoursePicker, SkillsPicker } from "./parts/education";
-import { BentleySystems, CourseTable, Java } from "./parts/experience";
+import { BentleySystems2, BentleySystems, CourseTable, Java } from "./parts/experience";
 
 export default function Resume() {
   return (
@@ -26,7 +26,18 @@ export default function Resume() {
       <h2 className={utilStyles.headingLg}>Experience</h2>
       <div className="flex justify-between">
         <div>
-          <p className="text-important font-bold text-lg">Software Engineer Intern</p>
+          <p className="text-important font-bold text-lg">Software Engineer</p>
+          <p className="text-gray-400 text-sm">Bentley Systems</p>
+        </div>
+        <div className="text-right">
+          <p className="text-gray-600 font-medium">Exton, PA</p>
+          <p className="text-gray-400 text-sm">July-Present</p>
+        </div>
+      </div>
+      <BentleySystems2 />
+      <div className="flex justify-between">
+        <div>
+          <p className="text-important font-bold text-lg">Software Engineering Intern</p>
           <p className="text-gray-400 text-sm">Bentley Systems</p>
         </div>
         <div className="text-right">
