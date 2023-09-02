@@ -8,7 +8,7 @@ export default function Greeting() {
         <header className={styles.header}>
             <div className="flex justify-center">
               <div className="w-60 h-60 flex-1">
-                <img src="/images/profile.png" className="p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500 w-60 h-60"/>
+                <img src="/images/profile.jpeg" className="p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500 w-60 h-60"/>
               </div>
               <div className="px-8 py-4 flex-1">
                 <h3 className="font-sans text-4xl">{name}</h3>
